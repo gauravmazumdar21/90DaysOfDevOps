@@ -14,10 +14,6 @@ Let's come together to grow and achieve new heights in DevOps!
 - Showcase your learnings on LinkedIn
 
 ## Check out my daily blog 
-
+[https://codesnaphub.blogspot.com/]
 
 ## Thanks to Shubham Londhe for this initiative ❤
-
- <a href = "https://github.com/LondheShubham153/90DaysOfDevOps/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=LondheShubham153/90DaysOfDevOps"/>
- </a>
