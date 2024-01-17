@@ -1,8 +1,19 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
-These are the articles which I refered to,
+Q. What is DevOps:
+Ans. DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to enhance collaboration and productivity throughout the software development lifecycle. It aims to shorten the system development life cycle and provide continuous delivery with high software quality.
 
+Q. What is Automation, Scaling, Infrastructure:
+Ans.
+- Automation: The process of using technology to perform tasks without human intervention. In DevOps, automation is crucial for tasks such as code deployment, testing, and infrastructure provisioning.
+- Scaling: Adapting the capacity of systems to handle increased load or demand. DevOps involves scaling processes and infrastructure to meet the requirements of dynamic and evolving applications.
+- Infrastructure: Refers to the underlying components (hardware, software, networks) required to support the deployment and operation of software applications. Infrastructure as Code (IaC) is a DevOps practice that treats infrastructure configurations as code.
 
-formal defination   :   "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users."
+Q. Why DevOps is Important:
+Ans. DevOps is important for several reasons:
+1. Faster Time-to-Market: DevOps accelerates the development and deployment processes, enabling quicker delivery of software and features to end-users.
+2. Improved Collaboration: It fosters collaboration between development and operations teams, breaking down silos and enhancing communication to achieve common goals.
+3. Increased Efficiency: Automation reduces manual errors, streamlines processes, and ensures consistency, leading to improved efficiency in software development and deployment.
+4. Enhanced Quality: Continuous integration and continuous delivery (CI/CD) practices in DevOps contribute to better software quality through automated testing and frequent releases.
+5. Scalability: DevOps practices facilitate the scaling of infrastructure and applications, allowing organizations to adapt to changing workloads and demands efficiently.
+6. Customer Satisfaction: The rapid delivery of features and updates, along with improved quality, contributes to higher customer satisfaction as users experience fewer issues and have access to new functionalities sooner.
 
-The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
-
+Blog:- https://codesnaphub.blogspot.com/2023/12/devops.html
